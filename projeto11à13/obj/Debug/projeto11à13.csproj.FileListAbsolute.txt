@@ -1,0 +1,13 @@
+T:\1DS\LUCAS e  MARCOS & RAFAEL e THIAGO\Rafael e Thiago\C# - 11 à 13\projeto11à13\projeto11à13\bin\Debug\projeto11à13.exe.config
+T:\1DS\LUCAS e  MARCOS & RAFAEL e THIAGO\Rafael e Thiago\C# - 11 à 13\projeto11à13\projeto11à13\bin\Debug\projeto11à13.exe
+T:\1DS\LUCAS e  MARCOS & RAFAEL e THIAGO\Rafael e Thiago\C# - 11 à 13\projeto11à13\projeto11à13\bin\Debug\projeto11à13.pdb
+T:\1DS\LUCAS e  MARCOS & RAFAEL e THIAGO\Rafael e Thiago\C# - 11 à 13\projeto11à13\projeto11à13\obj\Debug\projeto11à13.csproj.AssemblyReference.cache
+T:\1DS\LUCAS e  MARCOS & RAFAEL e THIAGO\Rafael e Thiago\C# - 11 à 13\projeto11à13\projeto11à13\obj\Debug\projeto11à13.FrmMenu.resources
+T:\1DS\LUCAS e  MARCOS & RAFAEL e THIAGO\Rafael e Thiago\C# - 11 à 13\projeto11à13\projeto11à13\obj\Debug\projeto11à13.frmTabuada.resources
+T:\1DS\LUCAS e  MARCOS & RAFAEL e THIAGO\Rafael e Thiago\C# - 11 à 13\projeto11à13\projeto11à13\obj\Debug\projeto11à13.frmFahrenheit.resources
+T:\1DS\LUCAS e  MARCOS & RAFAEL e THIAGO\Rafael e Thiago\C# - 11 à 13\projeto11à13\projeto11à13\obj\Debug\projeto11à13.frmCômodos.resources
+T:\1DS\LUCAS e  MARCOS & RAFAEL e THIAGO\Rafael e Thiago\C# - 11 à 13\projeto11à13\projeto11à13\obj\Debug\projeto11à13.Properties.Resources.resources
+T:\1DS\LUCAS e  MARCOS & RAFAEL e THIAGO\Rafael e Thiago\C# - 11 à 13\projeto11à13\projeto11à13\obj\Debug\projeto11à13.csproj.GenerateResource.cache
+T:\1DS\LUCAS e  MARCOS & RAFAEL e THIAGO\Rafael e Thiago\C# - 11 à 13\projeto11à13\projeto11à13\obj\Debug\projeto11à13.csproj.CoreCompileInputs.cache
+T:\1DS\LUCAS e  MARCOS & RAFAEL e THIAGO\Rafael e Thiago\C# - 11 à 13\projeto11à13\projeto11à13\obj\Debug\projeto11à13.exe
+T:\1DS\LUCAS e  MARCOS & RAFAEL e THIAGO\Rafael e Thiago\C# - 11 à 13\projeto11à13\projeto11à13\obj\Debug\projeto11à13.pdb
